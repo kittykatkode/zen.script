@@ -6,4 +6,6 @@
   a simple text editor.
 <h6 align="center">
   version alpha_testing
-</h>
+<h3 align="center">
+  <img src="https://github.com/kittykatkode/zen.script/blob/main/assets/screenshot.png" height="auto" width="auto"/>
+</h3>
