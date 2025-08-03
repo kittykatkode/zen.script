@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://github.com/kittykatkode/zen.script/blob/main/assets/logos/logo_zen_dot.png" height="300" width="300px"/>
+  <img src="https://github.com/kittykatkode/zen.script/blob/main/assets/logos/logo_zen_dot.png" height="200px" width="200px"/>
 <h3 align="center">
   > zen.script
 <h4 align="center">
@@ -8,4 +8,4 @@
   version alpha_testing
 <h3 align="center">
   <img src="https://github.com/kittykatkode/zen.script/blob/main/assets/screenshot.png" height="auto" width="auto"/>
-</h3>
+</h>
