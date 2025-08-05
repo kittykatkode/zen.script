@@ -1,6 +1,5 @@
     cd zen.script
     python zen_script.py
-    ```
 
 ## How to Build a Standalone Executable
 
@@ -22,3 +21,4 @@ You can package this application into a single executable file that includes all
     -   On Windows: `dist/zen.script.exe`
     -   On macOS: `dist/zen.script.app`
     -   On Linux: `dist/zen.script`
+
