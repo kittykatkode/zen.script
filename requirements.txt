@@ -1,0 +1,2 @@
+# For creating the executable
+pyinstaller
